@@ -15,6 +15,6 @@ a bot with music, AI, entertainment and economy systems. all served with dark hu
 
 ---
 
-![stats](https://github-readme-stats.vercel.app/api?username=imzerott&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
+![streak](https://streak-stats.demolab.com?user=imzerott&theme=dark&hide_border=true&background=0d1117&stroke=ffffff10&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imzerott&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+[![skills](https://skillicons.dev/icons?i=js,nodejs,discord)](https://skillicons.dev)
